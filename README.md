@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elcim-onec
-- 👀 I’m interested in E-commerce projects, Java-Spring Framework, Hibernate
+- 👀 I’m interested in Business Solutions, traveling, animals & environment, gaming, American muscle cars and choppers.
 - 🌱 I’m currently working on an e-commerce project using Spring Boot, Hibernate and MySQL
 - 📫 How to reach me onec.elcim@gmail.com
 
