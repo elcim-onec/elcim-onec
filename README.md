@@ -4,5 +4,6 @@
 - 📫 How to reach me onec.elcim@gmail.com
 
 ![Alt text](https://i.pinimg.com/originals/b7/3a/b1/b73ab1c8e9ea11a15a1a480552d899f6.gif)
-![Elcim's GitHub stats](https://github-readme-stats.vercel.app/api?username=elcim-onec&theme=nightowl &show_icons=true)
+[![Elcim's GitHub stats](https://github-readme-stats.vercel.app/api?username=elcim-onec)](https://github.com/elcim-onec/github-readme-stats)
+
 
