@@ -10,9 +10,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcim-onec&langs_count=3&theme=bear)](https://github.com/elcim-onec/github-readme-stats)
 
-<a href="https://github.com/elcim-onec/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elcim-onec&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/elcim-onec/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elcim-onec&repo=convoychat" />
-</a>
