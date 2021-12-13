@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elcim-onec
 - 👀 I’m interested in Java - Spring Framework, Business Solutions (SAP & Salesforce)
-- 👾 I love Gaming, Weight Lifting, American Muscle Cars and Choppers.
+- ✨ Things I'm obsessed with: Gaming, Astronomy & Habitable Exoplanets, Weight Lifting, American Muscle Cars and Choppers, Flight Simulators.
 - 📫 How to reach me: onec.elcim@gmail.com
 
 ![Alt text](https://i.pinimg.com/originals/b7/3a/b1/b73ab1c8e9ea11a15a1a480552d899f6.gif)
